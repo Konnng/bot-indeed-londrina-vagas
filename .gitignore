@@ -1,0 +1,6 @@
+/node_modules/
+/data/
+jobs.html
+cron.log
+npm-debug.log
+package-lock.json
