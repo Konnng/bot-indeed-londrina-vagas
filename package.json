@@ -17,6 +17,7 @@
     "eslint-plugin-standard": "^3.0.1"
   },
   "dependencies": {
+    "@slack/client": "^4.8.0",
     "crypto": "^1.0.1",
     "fs-extra": "^5.0.0",
     "lowdb": "^1.0.0",
@@ -24,9 +25,9 @@
     "node-fetch": "^2.1.1",
     "path": "^0.12.7",
     "rss-parser": "^3.1.2",
-    "slack-node": "^0.1.8",
     "sleep-time": "^0.1.0",
     "unique-by": "^1.0.0",
-    "url-parse": "^1.2.0"
+    "url-parse": "^1.4.4",
+    "xregexp": "^4.2.4"
   }
 }
